@@ -1,4 +1,6 @@
-# Cognifyz Java Intern - 2024 :
+# Cognifyz Java Intern - 2024
+
+## (Tasks Completed)
 
 ## Task 1 - Temperature Converter :
 
